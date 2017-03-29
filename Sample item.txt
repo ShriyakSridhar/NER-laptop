@@ -1,0 +1,46 @@
+<ItemAttributes>
+    <Binding>Personal Computers</Binding>
+    <Brand>Asus</Brand>
+    <EAN>0724393063670</EAN>
+    <EANList>
+        <EANListElement>0724393063670</EANListElement>
+    </EANList>
+    <Feature>15.6&quot; Full HD (1920 x 1080) LED Touchscreen Display, 2-in-1 360° flip-and-fold</Feature>
+    <Feature>7th Gen Intel Core i7-7500U 2.70 GHz (4M Cache, up to 3.50 GHz) processor</Feature>
+    <Feature>16GB DDR4 Memory, 1TB HDD + 128GB SSD Hard Drive, No optical Driver</Feature>
+    <Feature>Backlit keyboard, 1x 1 USB Type-C, 3x USB 3.0, USB 2.0, 1x HDMI, Bluetooth</Feature>
+    <Feature>Fingerprint reader, media reader, 802.11ac, Intel HD Graphics 620, 6-hours battery, Windows 10</Feature>
+    <HardwarePlatform>PC</HardwarePlatform>
+    <ItemDimensions>
+        <Height Units="hundredths-inches">70</Height>
+        <Length Units="hundredths-inches">1500</Length>
+        <Weight Units="hundredths-pounds">507</Weight>
+        <Width Units="hundredths-inches">1000</Width>
+    </ItemDimensions>
+    <Label>Asus</Label>
+    <ListPrice>
+        <Amount>84949</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$849.49</FormattedPrice>
+    </ListPrice>
+    <Manufacturer>Asus</Manufacturer>
+    <MPN>724393063670</MPN>
+    <OperatingSystem>Windows 10</OperatingSystem>
+    <PackageDimensions>
+        <Height Units="hundredths-inches">250</Height>
+        <Length Units="hundredths-inches">1710</Length>
+        <Weight Units="hundredths-pounds">675</Weight>
+        <Width Units="hundredths-inches">1180</Width>
+    </PackageDimensions>
+    <PackageQuantity>1</PackageQuantity>
+    <PartNumber>724393063670</PartNumber>
+    <ProductGroup>Personal Computer</ProductGroup>
+    <ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+    <Publisher>Asus</Publisher>
+    <Studio>Asus</Studio>
+    <Title>2017 Asus Flagship 360° Flip 2-in-1 15.6&quot; FHD Touchscreen Laptop Intel Core i7-7500U 2.70GHz, 16GB Memory, 1TB HDD+128GB SSD, Type-C USB, Bluetooth, HDMI, 802.11ac, Backlit keyboard, Win 10</Title>
+    <UPC>724393063670</UPC>
+    <UPCList>
+        <UPCListElement>724393063670</UPCListElement>
+    </UPCList>
+</ItemAttributes>
